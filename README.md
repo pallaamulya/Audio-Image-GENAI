@@ -7,7 +7,7 @@
    Built using Hugging Face's `diffusers` library in Google Colab with GPU acceleration (CUDA).
 3. Demo
    🎤 Recognized Text: rose flowers
-   ![image](https://github.com/user-attachments/assets/23e0f4a8-d4a5-4ba6-ad43-b8663c69a632)
+   ![image](https://github.com/user-attachments/assets/7265e6bc-b9db-4569-a72f-9766a8bc7392)
 4. Technologies Used
    ## 🛠️ Technologies
 - 🧠 [Hugging Face diffusers](https://huggingface.co/docs/diffusers/)
